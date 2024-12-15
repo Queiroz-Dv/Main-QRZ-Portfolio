@@ -44,7 +44,7 @@ font-family: 'Josefin Slab', serif; */
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #7068F4;
+  background-color: #7068f4;
   border-radius: 8px;
 }
 
@@ -218,6 +218,18 @@ header .grid-layout nav .nav-list li a:hover {
   color: #7068f4;
 }
 
+#session-services .grid-layout #services #services-q {
+  color: #f03c2e;
+}
+
+#session-services .grid-layout #services #services-r {
+  color: #ff914d;
+}
+
+#session-services .grid-layout #services #services-z {
+  color: #b52e31;
+}
+
 #session-qrz .grid-layout #home #home-container-text p {
   color: #fff;
   font-size: 2rem;
@@ -273,6 +285,16 @@ header .grid-layout nav .nav-list li a:hover {
   justify-content: space-between;
   align-items: center;
   height: auto;
+}
+
+#session-about .grid-layout > div #creator-photo {
+  width: 37%;
+  background-image: url("../image/foto-qrz.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-radius: 2px;
+  height: 400px;
 }
 
 #session-about .grid-layout > div #creator-photo h3 {
@@ -683,7 +705,7 @@ header .grid-layout nav .nav-list li a:hover {
 }
 
 #session-skills .grid-layout #skills #skills-text h2 span {
-  color: #FF914D;
+  color: #ff914d;
 }
 
 #session-skills .grid-layout #skills #skills-text .changeDescription {
@@ -720,7 +742,7 @@ header .grid-layout nav .nav-list li a:hover {
 }
 
 #session-skills .grid-layout #skills #skills-cards article:hover {
-  border: 1px solid #FF914D;
+  border: 1px solid #ff914d;
 }
 
 @keyframes blink {

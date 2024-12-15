@@ -10,9 +10,9 @@ typeWrite(document.querySelector(".typewriter"));
 
 hoverChangeExperience(
   ".mxm",
-  `Atuo como desenvolvedor em correções e implementações em módulos do governo
+  `Atuo como desenvolvedor em correções e implementações nos módulos para os clientes governamentais
   como: SENAC, SERPRO e SESC. De forma semelhante, fui responsável pela migração, organização
-  e planejamento com uma pequena equipe dos módulos específicos dos orgãos citados anteriormente.
+  e planejamento com uma pequena equipe dos módulos específicos para os clientes citados anteriormente.
   Além disso, também contribuí em outros módulos do sistema como Orçamento, Compras e Patrimônio.`,
   "Analista Desenvolvedor Júnior 3 ",
   "MXM Sistemas",
